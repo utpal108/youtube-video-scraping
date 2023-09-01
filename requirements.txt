@@ -1,0 +1,5 @@
+flask
+selenium
+pymongo
+bs4
+logging
