@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains scripts for scraping comments from YouTube videos using Python. This can be useful for data analysis, sentiment analysis, or any other research purposes related to YouTube comments.
+The project aims to gather data from YouTube video comments using web scraping techniques. YouTube, being one of the largest video-sharing platforms, hosts a vast amount of user-generated content, including comments. Extracting and analyzing these comments can provide valuable insights into audience sentiments, preferences, and engagement patterns.
 
 ## Features
 
