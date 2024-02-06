@@ -9,7 +9,7 @@ This repository contains scripts for scraping comments from YouTube videos using
 ## Features
 
 - **Scalability**: Easily scale the scraping process to collect comments from YouTube videos.
-- **Search Option**: Here, you can easily search for your desired YouTube video and extract the comments of this video.
+- **Easy to use**: Paste your YouTube video URL and extract the comments of this video.
 
 ## Getting Started
 
@@ -59,4 +59,4 @@ Now, open up your local host with a port like that on your web browser.
 http://localhost:8080
 ```
 
-After opening the application, you will see a search box. Here, you have to paste the Youtube video URL and extract the comments of the video in a csv file.
+After opening the application, you will find a search box. Here, you have to paste the Youtube video URL and extract the comments of the video in a csv file.
